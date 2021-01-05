@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
     // variables to hold the operands and type of calculations
     private Double operand1 = null;
-    private String pendingOperation = "";
+    private String pendingOperation = "-";
 
     // public members:
     Button button0;
